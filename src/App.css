@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  border: 2px solid #000;
+}
+
+.InfoPanel {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  color: #fff;
+}
